@@ -14,8 +14,9 @@ Given a photo, the model outputs a confidence score for "cat" vs "dog," using a 
 
 ## Results
 
-- Validation accuracy: `__%` 
-- Training/validation accuracy curves: 
+- Validation accuracy: `98.90%` 
+- Training/validation accuracy curves: <img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/04b65fb7-4260-48ee-87a5-bbfce1923042" />
+ 
 
 ## Tech stack
 
